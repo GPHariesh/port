@@ -654,16 +654,10 @@ drawParticles();
 
 
 ## OUTPUT
-<img width="1898" height="907" alt="Screenshot 2026-10-27 131438" src="https://github.com/user-attachments/assets/c64afcc0-8f4a-4586-951d-fcd8555d3193" />
-
-
-<img width="1916" height="906" alt="Screenshot 2026-10-27 131456" src="https://github.com/user-attachments/assets/e4c340fb-4100-40a4-8e1e-f8181f3db8bd" />
-
-<img width="1900" height="502" alt="Screenshot 2026-10-27 131546" src="https://github.com/user-attachments/assets/7f6ad197-be74-40de-8cd6-49a88d282de5" />
-
-
-<img width="1902" height="510" alt="Screenshot 2026-10-27 131558" src="https://github.com/user-attachments/assets/debaad30-e556-42ce-8824-7706ce5572c2" />
-
+![alt text](1.png)
+![alt text](2.png)
+![alt text](3.png)
+![alt text](4.png)
 
 ## RESULT
 The program for creating Portfolio using HTML and CSS is executed successfully.
